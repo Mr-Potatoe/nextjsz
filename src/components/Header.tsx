@@ -53,7 +53,7 @@ const Header = () => {
       <div className="flex items-center justify-between p-4">
         <div className="flex items-center">
           <Image src="/favicon.ico" alt="Logo" width={40} height={40} className="mr-2" />
-          <h1 className="text-2xl font-bold">My Portfolio</h1>
+          <h1 className="text-2xl font-bold">Jayme Aj Arns</h1>
         </div>
         <div className="block lg:hidden">
           <button 
