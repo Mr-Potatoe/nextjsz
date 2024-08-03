@@ -3,7 +3,7 @@ const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative overflow-hidden text-center bg-gray-100 dark:bg-gray-900 py-12 md:py-24"
+      className="relative overflow-hidden text-center bg-gray-100 dark:bg-gray-900 py-12 md:py-24 mt-8 "
       data-aos="fade-up"
       data-aos-duration="1000" // Animation duration
       data-aos-easing="ease-in-out" // Animation easing

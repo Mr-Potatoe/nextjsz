@@ -19,7 +19,6 @@ const ProjectsSection = () => {
           <p className="text-sm text-gray-700 dark:text-gray-300 mb-4">
             Short description of the project.
           </p>
-          <p style={{ display: 'block',color: 'red', backgroundColor: 'green' }}>hahahah</p>
           <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">
             View Project
           </a>
